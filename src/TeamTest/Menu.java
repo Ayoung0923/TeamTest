@@ -6,6 +6,7 @@ public class Menu {
 		System.out.println("오늘 점심 뭐먹지??");
 		//HKS 추가함
 		//123123123
+		System.out.println("굿모닝 깐풍치킨 ㄱㄱ");
 
 	}
 }
