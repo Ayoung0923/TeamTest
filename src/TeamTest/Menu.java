@@ -7,6 +7,6 @@ public class Menu {
 		//HKS 추가함
 		//123123123
 		System.out.println("굿모닝 깐풍치킨 ㄱㄱ");
-
+		//돼라...
 	}
 }
